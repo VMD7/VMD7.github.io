@@ -1,11 +1,12 @@
 - title: Machine Learning Engineer @ Digitate (TCS Research)
   from: 2022
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Experienced in developing AI-driven solutions, including PII detection, NLP chatbots, event prediction, and automated data insights using advanced ML/DL techniques.
+
+- title: SDE Intern @ Culinda
+  from: 2021
+  to: 2022
+  description: Experienced in developing security-focused APIs, threat intelligence platforms, and optimizing cloud-based infrastructures with FastAPI, Azure Functions, and MongoDB.
 
 - title: Student @ SGGSIE&T
   from: 2018

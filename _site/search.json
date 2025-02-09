@@ -1,10 +1,34 @@
 [
   
     {
+      "title"    : "𝗗𝗲𝗲𝗽 𝗦𝗲𝗲𝗸 𝘄𝗶𝘁𝗵𝗶𝗻 𝗗𝗲𝗲𝗽𝗦𝗲𝗲𝗸-𝗥𝟭🚀",
+      "category" : "",
+      "tags"     : "LLM, DeepSeek",
+      "url"      : "/blog/deepseek-r1-article",
+      "date"     : "2025-02-09 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Vector Databases- Your AI’s Secret Supercharge",
+      "category" : "",
+      "tags"     : "LLM, Vector Databases, Embeddings",
+      "url"      : "https://medium.com/@igniobydigitate/vector-databases-your-ais-secret-supercharge-129d7314545f",
+      "date"     : "2024-01-03 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Entering the Gemini Era- LLM’s Multimodal Leap Towards AGI",
+      "category" : "",
+      "tags"     : "LLM, Gemini",
+      "url"      : "https://medium.com/@devanevijay007/entering-the-gemini-era-llms-multimodal-leap-towards-agi-de0250e1430c",
+      "date"     : "2023-12-09 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Digital Minimalism",
       "category" : "",
       "tags"     : "Social Media, Minimalism, Technology",
-      "url"      : "/vijaydevane/blog/digital-minimalism",
+      "url"      : "/blog/digital-minimalism",
       "date"     : "2019-02-20 00:00:00 +0530"
     } ,
   
@@ -12,7 +36,7 @@
       "title"    : "Learn React.js in 5 minutes",
       "category" : "",
       "tags"     : "React, JavaScript, Web Development",
-      "url"      : "/vijaydevane/blog/learn-react-js",
+      "url"      : "/blog/learn-react-js",
       "date"     : "2019-02-15 00:00:00 +0530"
     } ,
   
@@ -20,7 +44,7 @@
       "title"    : "Clean Coding",
       "category" : "",
       "tags"     : "Software Development, Clean Code",
-      "url"      : "/vijaydevane/blog/clean-coding",
+      "url"      : "/blog/clean-coding",
       "date"     : "2018-12-10 00:00:00 +0530"
     } ,
   
@@ -28,7 +52,7 @@
       "title"    : "What the heck is a Callback?",
       "category" : "",
       "tags"     : "JavaScript, Nodejs, Web Development",
-      "url"      : "/vijaydevane/blog/what-the-heck-is-a-callback",
+      "url"      : "/blog/what-the-heck-is-a-callback",
       "date"     : "2018-12-01 00:00:00 +0530"
     } ,
   
@@ -36,7 +60,7 @@
       "title"    : "4 Lessons After 11 Years in Silicon Valley",
       "category" : "",
       "tags"     : "",
-      "url"      : "/vijaydevane/blog/four-lessons-after-eleven-years-in-silicon-valley",
+      "url"      : "/blog/four-lessons-after-eleven-years-in-silicon-valley",
       "date"     : "2018-05-09 00:00:00 +0530"
     } ,
   
@@ -44,7 +68,7 @@
       "title"    : "GitHub Flow",
       "category" : "",
       "tags"     : "GitHub, Workflow",
-      "url"      : "/vijaydevane/blog/github-flow",
+      "url"      : "/blog/github-flow",
       "date"     : "2017-01-01 00:00:00 +0530"
     } ,
   
@@ -52,7 +76,7 @@
       "title"    : "A better Hello World",
       "category" : "",
       "tags"     : "Software Development",
-      "url"      : "/vijaydevane/blog/a-better-hello-world",
+      "url"      : "/blog/a-better-hello-world",
       "date"     : "2016-07-23 00:00:00 +0530"
     } ,
   
@@ -60,7 +84,7 @@
       "title"    : "Do not go gentle into that good night",
       "category" : "",
       "tags"     : "Poetry",
-      "url"      : "/vijaydevane/blog/do-not-go-gentle-into-that-good-night",
+      "url"      : "/blog/do-not-go-gentle-into-that-good-night",
       "date"     : "2016-04-17 00:00:00 +0530"
     } ,
   
@@ -68,16 +92,8 @@
       "title"    : "What is version control?",
       "category" : "",
       "tags"     : "Version Control",
-      "url"      : "/vijaydevane/blog/what-is-version-control",
+      "url"      : "/blog/what-is-version-control",
       "date"     : "2016-02-09 00:00:00 +0530"
-    } ,
-  
-    {
-      "title"    : "How to undo your git failure?",
-      "category" : "",
-      "tags"     : "External Post, Git",
-      "url"      : "https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74",
-      "date"     : "2015-09-25 00:00:00 +0530"
     } 
   
 ]

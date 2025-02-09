@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Vijay Devane
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Machine Learning Engineer @ Digitate | 
+                      AI/ML Researcher | Creator of AutoMAS 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : vmd7/vmd7.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -26,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Vijay Devane
-  image             : img/VijayDevaneProfile.jpg
+  image             : img/VijayDevaneProfile.png
 #  behance           : your_username
 # dribbble          : your_username
   email             : vijaydevane007@gmail.com
